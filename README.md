@@ -1,0 +1,2 @@
+# genderequalitydash
+The Gender Equality Analytics Dashboard is a web-based analytic application that represents a graphical overview of the survey results, it aims to achieve the most understandable and accurate display of the results by showing trends and patterns related to the survey answers in order to make it easy to pull insights from the survey results. The application is written in Python, using Plotly and Dash frameworks.
